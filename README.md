@@ -1,6 +1,6 @@
 # Introduction
 
-A simple Tic-Tac-Toe game in C# for console, supports local multiplayer and solo play against AI.
+A simple Tic-Tac-Toe game made in C# console, supports local multiplayer and solo play against AI.
 
 # Gallery
 
