@@ -1,0 +1,28 @@
+D:\Programowanie\CSharp\Kolko i Krzyzyk ( console )\bin\Debug\net8.0\Kolko i Krzyzyk ( console ).exe
+D:\Programowanie\CSharp\Kolko i Krzyzyk ( console )\bin\Debug\net8.0\Kolko i Krzyzyk ( console ).deps.json
+D:\Programowanie\CSharp\Kolko i Krzyzyk ( console )\bin\Debug\net8.0\Kolko i Krzyzyk ( console ).runtimeconfig.json
+D:\Programowanie\CSharp\Kolko i Krzyzyk ( console )\bin\Debug\net8.0\Kolko i Krzyzyk ( console ).dll
+D:\Programowanie\CSharp\Kolko i Krzyzyk ( console )\bin\Debug\net8.0\Kolko i Krzyzyk ( console ).pdb
+D:\Programowanie\CSharp\Kolko i Krzyzyk ( console )\obj\Debug\net8.0\Kolko i Krzyzyk ( console ).GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie\CSharp\Kolko i Krzyzyk ( console )\obj\Debug\net8.0\Kolko i Krzyzyk ( console ).AssemblyInfoInputs.cache
+D:\Programowanie\CSharp\Kolko i Krzyzyk ( console )\obj\Debug\net8.0\Kolko i Krzyzyk ( console ).AssemblyInfo.cs
+D:\Programowanie\CSharp\Kolko i Krzyzyk ( console )\obj\Debug\net8.0\Kolko i Krzyzyk ( console ).csproj.CoreCompileInputs.cache
+D:\Programowanie\CSharp\Kolko i Krzyzyk ( console )\obj\Debug\net8.0\Kolko i Krzyzyk ( console ).dll
+D:\Programowanie\CSharp\Kolko i Krzyzyk ( console )\obj\Debug\net8.0\refint\Kolko i Krzyzyk ( console ).dll
+D:\Programowanie\CSharp\Kolko i Krzyzyk ( console )\obj\Debug\net8.0\Kolko i Krzyzyk ( console ).pdb
+D:\Programowanie\CSharp\Kolko i Krzyzyk ( console )\obj\Debug\net8.0\Kolko i Krzyzyk ( console ).genruntimeconfig.cache
+D:\Programowanie\CSharp\Kolko i Krzyzyk ( console )\obj\Debug\net8.0\ref\Kolko i Krzyzyk ( console ).dll
+C:\Programowanie\CSharp\Kolko i Krzyzyk ( console ) — github\bin\Debug\net8.0\Kolko i Krzyzyk ( console ).exe
+C:\Programowanie\CSharp\Kolko i Krzyzyk ( console ) — github\bin\Debug\net8.0\Kolko i Krzyzyk ( console ).deps.json
+C:\Programowanie\CSharp\Kolko i Krzyzyk ( console ) — github\bin\Debug\net8.0\Kolko i Krzyzyk ( console ).runtimeconfig.json
+C:\Programowanie\CSharp\Kolko i Krzyzyk ( console ) — github\bin\Debug\net8.0\Kolko i Krzyzyk ( console ).dll
+C:\Programowanie\CSharp\Kolko i Krzyzyk ( console ) — github\bin\Debug\net8.0\Kolko i Krzyzyk ( console ).pdb
+C:\Programowanie\CSharp\Kolko i Krzyzyk ( console ) — github\obj\Debug\net8.0\Kolko i Krzyzyk ( console ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Programowanie\CSharp\Kolko i Krzyzyk ( console ) — github\obj\Debug\net8.0\Kolko i Krzyzyk ( console ).AssemblyInfoInputs.cache
+C:\Programowanie\CSharp\Kolko i Krzyzyk ( console ) — github\obj\Debug\net8.0\Kolko i Krzyzyk ( console ).AssemblyInfo.cs
+C:\Programowanie\CSharp\Kolko i Krzyzyk ( console ) — github\obj\Debug\net8.0\Kolko i Krzyzyk ( console ).csproj.CoreCompileInputs.cache
+C:\Programowanie\CSharp\Kolko i Krzyzyk ( console ) — github\obj\Debug\net8.0\Kolko i Krzyzyk ( console ).dll
+C:\Programowanie\CSharp\Kolko i Krzyzyk ( console ) — github\obj\Debug\net8.0\refint\Kolko i Krzyzyk ( console ).dll
+C:\Programowanie\CSharp\Kolko i Krzyzyk ( console ) — github\obj\Debug\net8.0\Kolko i Krzyzyk ( console ).pdb
+C:\Programowanie\CSharp\Kolko i Krzyzyk ( console ) — github\obj\Debug\net8.0\Kolko i Krzyzyk ( console ).genruntimeconfig.cache
+C:\Programowanie\CSharp\Kolko i Krzyzyk ( console ) — github\obj\Debug\net8.0\ref\Kolko i Krzyzyk ( console ).dll
